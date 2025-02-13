@@ -35,7 +35,7 @@ export default function () {
 
       <View style={styles.qrContainer}>
         <QRCode
-          value="https://bostonpizza.com/en/index.html"
+          value="https://www.carolinaalehouse.com/"
           size={Dimensions.get('window').width / 2.5}
         />
       </View>
